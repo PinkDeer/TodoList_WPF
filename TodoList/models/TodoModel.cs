@@ -18,7 +18,7 @@ namespace TodoList.models
             set { _isDone = value; }
         }
 
-        public string MyProperty
+        public string Text
         {
             get { return _text; }
             set { _text = value; }
